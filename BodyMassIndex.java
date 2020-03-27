@@ -1,6 +1,5 @@
-package Blok_4_Testability.Z2_Bmi;
+// package Blok_4_Testability.Z2_Bmi; //Заменить на свой (Для IDEA)
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class BodyMassIndex {
